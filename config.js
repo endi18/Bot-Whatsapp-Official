@@ -65,17 +65,17 @@ global.pdana = "-"; //dana
 global.povo = "-"; //ovo
 global.pgopay = "-"; //gopay
 global.plinkaja = "-"; //link aja
-global.ppulsa = "6289503433262"; //telkomsel
-global.ppulsa2 = "6281378163495 ( 20% Bonus )"; // kalau ada kartu lain isi aja
+global.ppulsa = "6283154565106"; //axis
+global.ppulsa2 = " ( 20% Bonus )"; // kalau ada kartu lain isi aja
 global.psaweria = "-";
 
 /*============== NOMOR ==============*/
-global.nomorbot = "6282172622047";
-global.nomorown = "6289503433262";
-global.ageowner = "2011-01-13";
-global.namebot = "「 BLUECKKN BOT ⁩㊣ 」";
-global.namebot_1 = "BKN-MD";
-global.nameown = "BLUECKKN";
+global.nomorbot = "6282117984903";
+global.nomorown = "6283154565106";
+global.ageowner = "2023-01-13";
+global.namebot = "「 Bot 」";
+global.namebot_1 = "Bot";
+global.nameown = "Endi";
 
 /*============== Github Thanks To ==============*/
 global.namagithub = "-"; // nama github lu
@@ -87,8 +87,8 @@ global.lolkey = "e54205a4ca2caa368cc067bb"; // PUNYA WAHID  8e66d0934cf741bfd218
 
 /*============== STAFF ==============*/
 global.owner = [
-  ["6285280808438", "🗿", true],
-  ["6289503433262", "BLUE CKKN", true],
+  ["6283154565106", "🗿", true],
+  ["6282117984903", "BLUE CKKN", true],
 ];
 
 global.mods = []; // Want some help?
